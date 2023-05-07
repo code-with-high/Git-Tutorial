@@ -12,3 +12,11 @@ to rollback on to the previous version after staged the modified files use the "
 
 hey see above restore from staged area
 
+now this content is untracked again but it will happen in working area 
+
+
+hey please come back on to the previous version and dicards the new changes in working area 
+now this content is untracked again but it will happen in working area 
+
+
+hey please come back on to the previous version and dicards the new changes in working area 
