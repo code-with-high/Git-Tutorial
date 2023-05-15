@@ -1,3 +1,5 @@
+
+
 staging area : git add . (for to move all files or content in working area to staging area now the files able to track by version control system)
 
 staging area : "git add <file>..." staged through file name 
@@ -11,7 +13,7 @@ or
 to rollback on to the previous version after staged the modified files use the "git restore --staged <file>..."
 
 hey see above restore from staged area
-
+ 
 now this content is untracked again but it will happen in working area 
 
 
@@ -30,4 +32,4 @@ changes from each other
 git remote rm name of the remote # for  to remove the remote connection name 
 
 git remote rename <name of the remote > this cmd for rename the connecion name
-the name of the remote connection is always used to eastablish communications between the repo 
+the name of the remote connection is always used to eastablish communications between the repositories 
