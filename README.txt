@@ -20,3 +20,14 @@ now this content is untracked again but it will happen in working area
 
 
 hey please come back on to the previous version and dicards the new changes in working area 
+
+git remote => it will list down the remote connections name 
+
+Remote connection => it helps yout to link two git repositories for uploading and downloading 
+
+changes from each other 
+
+git remote rm name of the remote # for  to remove the remote connection name 
+
+git remote rename <name of the remote > this cmd for rename the connecion name
+the name of the remote connection is always used to eastablish communications between the repo 
