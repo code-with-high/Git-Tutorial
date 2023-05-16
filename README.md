@@ -33,3 +33,4 @@ git remote rm name of the remote # for  to remove the remote connection name
 
 git remote rename <name of the remote > this cmd for rename the connecion name
 the name of the remote connection is always used to eastablish communications between the repositories 
+git pull request for the accept or download the collaberator changes on the local reop from github repo 
