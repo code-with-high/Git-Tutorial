@@ -1,0 +1,49 @@
+[33mcommit 35dee88f160a3dcbdba72178f6754adf23c6547f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Anubhav trivedi <79807759+code-with-high@users.noreply.github.com>
+Date:   Tue May 16 17:18:54 2023 +0530
+
+    Update README.md
+    
+    this is for  if any of collaberator make changes into my project repo on the github and then how can we  see that changes on to the git bash by downloaded it by git pull bash cmd and github repo changes not tracked by the local git bash repo because that unique push it uploded on to the github so git bash can not tracked it but we are linked local repo to git repo by unique connection id name root
+
+[33mcommit 5d91d69a60394287b3e19b5a9ab6120e99438afd[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Tue May 16 01:23:37 2023 +0530
+
+    this is 7 rename commit
+
+[33mcommit fa3a2d855961988e23aef3baae55c1904b44561b[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Tue May 16 01:20:38 2023 +0530
+
+    this 7 commit
+
+[33mcommit 021f7c2fc15805adc862fdc423b0179d93dc4679[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Mon May 15 23:40:05 2023 +0530
+
+    This is my 6 th commit
+
+[33mcommit 8c54d0a6b35ddeb4abafc05818e2fef8e0b50f2b[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Mon May 8 00:33:29 2023 +0530
+
+    this is my third commit
+
+[33mcommit 1b02bdc517c5538404a5da5624ebaa2b933fc2eb[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Sun Apr 30 16:59:29 2023 +0530
+
+    This is my third commit
+
+[33mcommit 731b4adeea8027a9ce397eb7b7aa0fa89ec5fa7b[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Sun Apr 30 16:09:48 2023 +0530
+
+    This is my second commit
+
+[33mcommit 41cba3a1dde893a6caaf967f23f8f0a56a4cb7c3[m
+Author: code-with-high <anubhavtrivedi269@gmail.com>
+Date:   Sun Apr 30 15:21:59 2023 +0530
+
+    This is my first commit
