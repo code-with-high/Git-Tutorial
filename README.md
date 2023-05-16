@@ -34,4 +34,7 @@ git remote rm name of the remote # for  to remove the remote connection name
 git remote rename <name of the remote > this cmd for rename the connecion name
 the name of the remote connection is always used to eastablish communications between the repositories 
 git pull request for the accept or download the collaberator changes on the local reop from github repo 
- this is for  if any of collaberator make changes into my project repo on the github and then how can we  see that changes on to the git bash by downloaded it by git pull bash cmd and github repo changes not tracked by the local git bash repo because that unique push it uploded on to the github so git bash can not tracked it but we are linked local repo to git repo by unique connection id name root
+ this is for  if any of collaberator make changes into my project repo on the github and then how can we  see that changes on to the git bash by downloaded it by git pull bash cmd and github repo changes not tracked by the local git bash repo because that unique push it uploded on to the github so git bash can not tracked it but we are linked local repo to git repo by unique connection id name ro
+ 
+ github remote repo and we want to pull them[B    after pull cmd it shows the Aborting option because of the we do not commit or stage the previous local changes and we want next opertions
+
