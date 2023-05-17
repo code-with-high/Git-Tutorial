@@ -1,1 +1,1 @@
-if we want to make changes on the local repo and have not pull them on the remote repo and any deveolper make commit on our github remote repo and we want to see this and pull them on local then merge confilts occured becaues it does noke all the things before commit
+Merge Confilcts can occurer if multiple people try to make changes to the same file and the collaberator
