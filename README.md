@@ -38,3 +38,4 @@ git pull request for the accept or download the collaberator changes on the loca
  
  github remote repo and we want to pull them[B    after pull cmd it shows the Aborting option because of the we do not commit or stage the previous local changes and we want next opertions
 
+this is the git rbase , merge conflicts example 
