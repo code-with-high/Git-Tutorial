@@ -1,1 +1,1 @@
-Merge Confilcts can occurer if multiple people try to make changes to the same file and the collaberator
+hello this is the aborting or merge confilcts merging two or more branch into the single branch
