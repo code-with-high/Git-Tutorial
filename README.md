@@ -40,3 +40,4 @@ git pull request for the accept or download the collaberator changes on the loca
 
 this is the git rbase , merge conflicts example 
 now see merge conflicts and abort
+Merge coniflcts are very easy scenerio 
